@@ -1,11 +1,11 @@
-lun 8 dic 2025, 14:50:26, CET --- ghcr.io/neomediatech/cron:latest
+lun 22 dic 2025, 11:39:08, CET --- ghcr.io/neomediatech/cron:latest
 
 Report Summary
 
 ┌──────────────────────────────────────────────────┬────────┬─────────────────┬─────────┬───────────────────┐
 │                      Target                      │  Type  │ Vulnerabilities │ Secrets │ Misconfigurations │
 ├──────────────────────────────────────────────────┼────────┼─────────────────┼─────────┼───────────────────┤
-│ ghcr.io/neomediatech/cron:latest (alpine 3.23.0) │ alpine │        0        │    -    │         -         │
+│ ghcr.io/neomediatech/cron:latest (alpine 3.23.2) │ alpine │        0        │    -    │         -         │
 └──────────────────────────────────────────────────┴────────┴─────────────────┴─────────┴───────────────────┘
 Legend:
 - '-': Not scanned
