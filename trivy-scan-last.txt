@@ -1,11 +1,11 @@
-lun 9 feb 2026, 11:57:34, CET --- ghcr.io/neomediatech/cron:latest
+lun 27 apr 2026, 17:41:34, CEST --- ghcr.io/neomediatech/cron:latest
 
 Report Summary
 
 ┌──────────────────────────────────────────────────┬────────┬─────────────────┬─────────┬───────────────────┐
 │                      Target                      │  Type  │ Vulnerabilities │ Secrets │ Misconfigurations │
 ├──────────────────────────────────────────────────┼────────┼─────────────────┼─────────┼───────────────────┤
-│ ghcr.io/neomediatech/cron:latest (alpine 3.23.3) │ alpine │        0        │    -    │         -         │
+│ ghcr.io/neomediatech/cron:latest (alpine 3.23.4) │ alpine │        0        │    -    │         -         │
 └──────────────────────────────────────────────────┴────────┴─────────────────┴─────────┴───────────────────┘
 Legend:
 - '-': Not scanned
