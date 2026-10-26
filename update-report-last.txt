@@ -1,1 +1,1 @@
-mar 22 set 2026, 10:00:00, CEST --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
+lun 26 ott 2026, 17:33:53, CET --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
