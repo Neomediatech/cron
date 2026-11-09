@@ -7,3 +7,4 @@ lun 27 apr 2026, 17:41:21, CEST --- ghcr.io/neomediatech/cron:latest done (image
 lun 22 giu 2026, 17:43:08, CEST --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
 mar 22 set 2026, 10:00:00, CEST --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
 lun 26 ott 2026, 17:33:53, CET --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
+lun 9 nov 2026, 16:27:56, CET --- ghcr.io/neomediatech/cron:latest done (image build needed: true)
